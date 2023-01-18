@@ -1,0 +1,24 @@
+#typing-container {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  #typing-area {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 18px;
+  }
+  
+  #typing-stats {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+
+  #duplicate-words {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
